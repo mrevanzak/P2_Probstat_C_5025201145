@@ -6,11 +6,11 @@
 
 ### A
 Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel
-diatas
+diatas </br>
 Untuk menghitung standar deviasi tinggal menggunakan fungsi `sd()`
 ![image](https://user-images.githubusercontent.com/73029778/170860638-691d8d7f-fc18-4827-9238-11c0c66f0ba3.png)
 ### B
-Carilah nilai t (p-value)
+Carilah nilai t (p-value) </br>
 Untuk menghitung nilai t tinggal menggunakan fungsi `t.test()`
 ![image](https://user-images.githubusercontent.com/73029778/170860681-4d79cdc3-aafd-4375-a416-dc50f2ecf0aa.png)
 ### C
