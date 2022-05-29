@@ -57,7 +57,7 @@ library("ggpubr")
 
 # a
 data_kucing$Group <- as.factor(data_kucing$Group)
-data_kucing$Group = factor(dataoneway$Group,labels = c("Kucing oren", "Kucing hitam", "Kucing putih"))
+data_kucing$Group = factor(data_kucing$Group,labels = c("Kucing oren", "Kucing hitam", "Kucing putih"))
 
 Group1 <- subset(data_kucing, Group == "Kucing oren")
 Group2 <- subset(data_kucing, Group == "Kucing hitam")
